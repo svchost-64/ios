@@ -1,0 +1,6 @@
+{
+  "name": "iNariño - Apple Premium Reseller",
+  "description": "Distribuidor exclusivo de Apple especializado en iPhones, Apple Watch, AirPods, MacBooks y iPads con catálogo interactivo, configurador de compra por WhatsApp y panel de control de inventario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
